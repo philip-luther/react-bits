@@ -6,6 +6,10 @@ A compilation of React Patterns, techniques, tips and tricks.
 
 > Your contributions are heartily ♡ welcome. (✿◠‿◠)
 
+> **Translations by community:**
+> - 中文版 (Chinese): [react-bits-cn](https://github.com/hateonion/react-bits-CN)
+
+
 - Design Patterns and Techniques
   - [Stateless Functions](./patterns/01.stateless-functions.md)
   - [JSX Spread Attributes](./patterns/02.jsx-spread-attributes.md)
